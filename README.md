@@ -5,7 +5,7 @@ Find the project requirements here: [Web scraper to get news article content](ht
 
 ## Tech/framework used
 
-Built with \_\_\_
+Built with python
 
 ## Screenshots and demo
 
